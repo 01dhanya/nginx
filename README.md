@@ -9,4 +9,4 @@
 - docker run -d --name container-name --network host image-name
 ## Don't forget to replace 'container-name' with your container name and 'image-name' with your image name
 # Create TSC Application Containers same as above.
--Make sure that you run your application on localhost 8081 
+- Make sure that you run your application on localhost 8081 port number
